@@ -1,0 +1,2 @@
+"""Fertilizer recommendation project package."""
+
